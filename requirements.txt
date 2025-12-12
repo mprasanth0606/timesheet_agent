@@ -9,6 +9,7 @@ faster-whisper
 langchain-community
 langchain-huggingface 
 faiss-cpu
+sentence_transformers
 
 
 
